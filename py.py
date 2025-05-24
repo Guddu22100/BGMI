@@ -6,10 +6,10 @@ import subprocess
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Initialize the bot with your bot's API token
-bot = telebot.TeleBot('8062201499:AAEj0Z13mMlJJF0NiHXKVWXtXFTfdyYhUyY')
+bot = telebot.TeleBot('7952260964:AAFRCjciFEBgPmJrAdA7GphyQCdw8CofzHE')
 
 # Admin user IDs (replace with your own admin IDs as strings)
-admin_ids = ["8062201499"]
+admin_ids = ["6182507613"]
 
 # File to store allowed user IDs with expiry dates
 USER_FILE = "users.txt"
